@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <publishDate position="right" format="yyyy-MM-dd"/>
+    <version position="right"/>
+
+    <body>
+        <breadcrumbs>
+            <item name="Minify Maven Plugin" href="https://github.com/samaxes/minify-maven-plugin" />
+        </breadcrumbs>
+
+        <menu ref="modules" />
+        <menu name="Overview">
+            <item name="Introduction" href="index.html" />
+            <item name="Goals" href="plugin-info.html" />
+            <item name="Usage" href="usage.html" />
+            <item name="FAQ" href="faq.html" />
+        </menu>
+        <menu name="Examples">
+            <item name="Basic Configuration" href="examples/basic.html" />
+            <item name="Using include/exclude patterns" href="examples/patterns.html" />
+            <item name="Bundle Configuration" href="examples/bundle.html" />
+            <item name="Exclude source files from WAR package" href="examples/exclude.html" />
+        </menu>
+        <menu ref="reports" />
+    </body>
+
+    <skin>
+        <groupId>org.apache.maven.skins</groupId>
+        <artifactId>maven-fluido-skin</artifactId>
+        <version>1.5</version>
+    </skin>
+
+    <custom>
+        <fluidoSkin>
+            <leftColumnClass>span3</leftColumnClass>
+            <bodyColumnClass>span9</bodyColumnClass>
+            <gitHub>
+                <projectId>samaxes/minify-maven-plugin</projectId>
+                <ribbonOrientation>right</ribbonOrientation>
+                <ribbonColor>red</ribbonColor>
+            </gitHub>
+            <twitter>
+                <user>samaxes</user>
+                <showUser>true</showUser>
+            </twitter>
+            <facebookLike />
+            <googlePlusOne />
+        </fluidoSkin>
+    </custom>
+</project>

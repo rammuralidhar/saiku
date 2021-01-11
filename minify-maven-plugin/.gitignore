@@ -1,0 +1,7 @@
+target
+.settings
+.project
+.classpath
+.idea
+minify-maven-plugin.iml
+.DS_Store
