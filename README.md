@@ -116,6 +116,10 @@ Check [CONTRIBUTING.md](./CONTRIBUTING.md) for more details. Some important info
 
 * If you have a feature request, then please get in touch. We'd love to hear from you! Send a email for: [info@meteorite.bi](mailto:info@meteorite.bi)
 
+## Pentaho Plugin download
+
+Please download from here, check [Download](https://github.com/rammuralidhar/saiku/tree/development/release).
+
 ## History
 
 For detailed changelog, check [Releases](https://github.com/OSBI/saiku/releases).
